@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Jiale is currently  a Ph.D. candidate in [the Department of Computer Science, Shanghai Jiao Tong University](https://cs.sjtu.edu.cn/cse/en/), supervised by prof. [Yanyan Shen](https://shen-yy.github.io/).  He is also an intern at ByteDance, mentored by Dr. [Xiaogang Shi](https://shixiaogang.com/). Previously, he received his B.S. from [the College of Computer Science, Sichuan University](https://cs.scu.edu.cn/e_jsjxy/).
+Jiale is currently  a Ph.D. candidate in [the Department of Computer Science, Shanghai Jiao Tong University](https://cs.sjtu.edu.cn/cse/en/), supervised by Prof. [Yanyan Shen](https://shen-yy.github.io/).  He is also an intern at ByteDance, mentored by Dr. [Xiaogang Shi](https://shixiaogang.com/). Previously, he received his B.S. from [the College of Computer Science, Sichuan University](https://cs.scu.edu.cn/e_jsjxy/).
 
-His previous work mainly focus on explaining graph neaural networks, and he is currently working on data selection and data debugging for ML models, especially for large language models.
+His previous work mainly focuses on explaining graph neural networks, and he is currently working on data selection and data debugging for machine learning models, especially for large language models.
 
 # Research Interests
 
