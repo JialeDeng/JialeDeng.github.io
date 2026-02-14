@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Jiale is currently  a Ph.D. candidate in [the Department of Computer Science, Shanghai Jiao Tong University](https://cs.sjtu.edu.cn/cse/en/), advised by prof. [Yanyan Shen](https://shen-yy.github.io/).  He is also interning at Bytedance, advised by Dr. [Xiaogang Shi](https://shixiaogang.com/). Previously, he earned his B.S. from [the College of Computer Science, Sichuan University](https://cs.scu.edu.cn/e_jsjxy/).
+Jiale is currently  a Ph.D. candidate in [the Department of Computer Science, Shanghai Jiao Tong University](https://cs.sjtu.edu.cn/cse/en/), supervised by prof. [Yanyan Shen](https://shen-yy.github.io/).  He is also an intern at ByteDance, mentored by Dr. [Xiaogang Shi](https://shixiaogang.com/). Previously, he received his B.S. from [the College of Computer Science, Sichuan University](https://cs.scu.edu.cn/e_jsjxy/).
 
 His previous work mainly focus on explaining graph neaural networks, and he is currently working on data selection and data debugging for ML models, especially for large language models.
 
@@ -16,3 +16,13 @@ His previous work mainly focus on explaining graph neaural networks, and he is c
 Data Selection; Data Debugging; Retrieval-Augmented Generation; Model Explanations
 
 He has organized his recent reading paper list in [awesome-ml-data-quality-papers](https://github.com/SJTU-DMTai/awesome-ml-data-quality-papers).
+
+# Recent Publications
+
+- **Deng, J.**, Shen, Y., Pei, Z., Chen, Y., & Huang, L. Influence Guided Context Selection for Effective Retrieval-Augmented Generation. In *The Thirty-ninth Annual Conference on Neural Information Processing Systems*. [paper](https://openreview.net/pdf?id=ugaepulZyA), [code](https://github.com/SJTU-DMTai/RAG-CSM)
+
+- **Deng, J.**, & Shen, Y. (2024, March). Self-interpretable graph learning with sufficient and necessary explanations. In *Proceedings of the AAAI conference on artificial intelligence* (Vol. 38, No. 10, pp. 11749-11756). [paper](https://ojs.aaai.org/index.php/AAAI/article/view/29059/30007), [code](https://github.com/SJTU-DMTai/SUNNY-GNN)
+
+- Li, T., **Deng, J.**, Shen, Y., Qiu, L., Yongxiang, H., & Cao, C. C. (2023, June). Towards fine-grained explainability for heterogeneous graph neural network. In *Proceedings of the AAAI Conference on Artificial Intelligence* (Vol. 37, No. 7, pp. 8640-8647). [paper](https://ojs.aaai.org/index.php/AAAI/article/view/26040/25812), [code](https://github.com/LITONG99/xPath)
+
+  
