@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Jiale Deng | 邓佳乐"
   pronouns         : # example: "she/her"  
-  bio              : "哈基米哦南北绿豆"
+  bio              : "jialedeng@sjtu.edu.cn"
   location         : "Shanghai"
   employer         : "Shanghai Jiao Tong University"
   uri              : # URL
-  email            : "jialedeng@sjtu.edu.cn" 
+  email            : # "jialedeng@sjtu.edu.cn" 
 
   # Academic websites
   academia         : # URL
