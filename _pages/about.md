@@ -13,7 +13,7 @@ His previous work mainly focuses on explaining graph neural networks, and he is 
 
 # Research Interests
 
-Data Selection; Data Debugging; Retrieval-Augmented Generation; Model Explanations
+Data Selection; Data Debugging; Retrieval-Augmented Generation; Trustworthy AI
 
 He has organized his recent reading paper list in [awesome-ml-data-quality-papers](https://github.com/SJTU-DMTai/awesome-ml-data-quality-papers).
 
